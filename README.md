@@ -5,7 +5,7 @@
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-**🎮 **Game Designer | Afterverse**\
+🎮 **Game Designer | Afterverse**\
 *(jun 2023 - atualmente)*
 - Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
 - Documentação, resolução de problemas, balanceamento, trabalho em equipe
