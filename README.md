@@ -60,8 +60,8 @@
   - Indicado nas categorias:
     - Melhor Jogo (Júri Técnico)
     - Melhor Game Design
-    - Melhor Som
     - Melhor Arte
+    - Melhor Som
   - Menção Honrosa nas categorias:
     - Melhor Jogo (Júri Técnico)
     - Melhor Game Design
