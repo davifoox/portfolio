@@ -102,3 +102,29 @@
   
 - Workshop "Level Design no Unity” | UNICAP - (abr 2019)
 
+
+# HABILIDADES
+- Linguagens de programação
+  - C#
+  - GDScript
+
+- Idiomas
+  - Inglês avançado
+
+- Ferramentas
+  - Unity
+  - Godot
+  - Excel
+  - Premiere
+  - Photoshop
+  - Ableton Live
+  - Aseprite
+  - Sourcetree
+  - Trello
+  - Jira
+
+# CONTATO
+- LinkedIn
+  - linkedin.com/in/davi-fox-732a41173/
+
+
