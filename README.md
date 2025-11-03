@@ -36,12 +36,12 @@
 
 # EDUCAÇÃO
 **Graduação em Jogos Digitais**
-Universidade Católica de Pernambuco (UNICAP) 
-(jan 2019 - jul 2022)
+- Universidade Católica de Pernambuco (UNICAP) 
+  (jan 2019 - jul 2022)
 
 **Graduação em Cinema e Audiovisual**
-Universidade Federal de Pernambuco (UFPE) 
-(ago 2013 - jul 2017)
+- Universidade Federal de Pernambuco (UFPE) 
+  (ago 2013 - jul 2017)
 
 # PRÊMIOS E RECONHECIMENTOS
 - UNICAP - Certificado de Aluno Destaque
