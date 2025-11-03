@@ -57,10 +57,10 @@ Premiação do TCC (One Bullet Man) nas categorias:
 - 🥇 Melhor Arte
 - 🥇 Projeto Inovação
 
-**IFMS (2021)**\
+**IFMS (2021)**
 - Júri convidado na Side Quest Game Jam
 
-**SBGames (2021)**\
+**SBGames (2021)**
 - Finalista com o jogo Sleepy Blocks
 - Indicado nas categorias:
   - Melhor Jogo (Júri Técnico)
@@ -71,10 +71,10 @@ Premiação do TCC (One Bullet Man) nas categorias:
   - 🏅 Melhor Jogo (Júri Técnico)
   - 🏅 Melhor Game Design
 
-**GMTK (2021)**\
+**GMTK (2021)**
 - 🥇 Vencedor com o jogo Sleepy Blocks
 
-**SBGames (2019)**\
+**SBGames (2019)**
 - Seleção Oficial com o jogo Mixtape Fever
 
 
@@ -86,7 +86,7 @@ Premiação do TCC (One Bullet Man) nas categorias:
 *(jan - abr 2022)*\
 Projeto: One Bullet Man
   
-**Participação em Game Jams**\
+**Participação em Game Jams**
 - GMTK Game Jam *(2025)*
 - GMTK Game Jam *(2024)*
 - GMTK Game Jam *(2021)*
@@ -134,14 +134,14 @@ Workshop "Level Design no Unity”
 
 
 ## HABILIDADES
-**Linguagens de programação**\
+**Linguagens de programação**
 - C#
 - GDScript
 
-**Idiomas**\
+**Idiomas**
 - Inglês avançado
 
-**Ferramentas**\
+**Ferramentas**
 - Unity
 - Godot
 - Excel
