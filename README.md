@@ -1,4 +1,9 @@
-# EXPERIÊNCIA PROFISSIONAL
+# Davi Fox
+**Game Designer**
+Recife, Brasil
+[LinkedIn](https://www.linkedin.com/in/davi-fox-732a41173/)
+
+## EXPERIÊNCIA PROFISSIONAL
 
 **Game Designer | Afterverse**
 (jun 2023 - atualmente)
@@ -34,7 +39,7 @@
 - Desenvolvimento de projetos internos da UNICAP
 - Oficinas de programação e level design para alunos de ensino médio
 
-# EDUCAÇÃO
+## EDUCAÇÃO
 **Graduação em Jogos Digitais**
 - Universidade Católica de Pernambuco (UNICAP) 
   (jan 2019 - jul 2022)
@@ -44,7 +49,7 @@
   (ago 2013 - jul 2017)
 
 
-# PRÊMIOS E RECONHECIMENTOS
+## PRÊMIOS E RECONHECIMENTOS
 - UNICAP (2022)
   - Certificado de Aluno Destaque
   - Premiação do TCC (One Bullet Man) nas categorias:
@@ -73,7 +78,7 @@
   - Seleção Oficial com o jogo Mixtape Fever
 
 
-# PROJETOS
+## PROJETOS
 - [Inserir link do itch.io]
 - [Inserir link da Google Play Store]
 
@@ -102,7 +107,7 @@
   - Clixit
 
 
-# OFICINAS, PALESTRAS E MOSTRAS
+## OFICINAS, PALESTRAS E MOSTRAS
 
 - Campus Party no Palco Jogo Coletivo + JAM das Minas (set 2024)
   - Palestra "De dev solo para Contratado"
@@ -129,7 +134,7 @@
   - Workshop "Level Design no Unity”
 
 
-# HABILIDADES
+## HABILIDADES
 - Linguagens de programação
   - C#
   - GDScript
@@ -148,9 +153,3 @@
   - Sourcetree
   - Trello
   - Jira
-
-# CONTATO
-- LinkedIn
-  - linkedin.com/in/davi-fox-732a41173/
-
-
