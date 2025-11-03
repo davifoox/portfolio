@@ -103,33 +103,26 @@ Projeto: One Bullet Man
 
 ## OFICINAS, PALESTRAS E MOSTRAS
 
-**Campus Party no Palco Jogo Coletivo + JAM das Minas**\
-*(set 2024)*\
+**Campus Party no Palco Jogo Coletivo + JAM das Minas** *(set 2024)*\
 Palestra "De dev solo para Contratado"
 
-**Rec'n'Play**\
-*(nov 2023)*\
+**Rec'n'Play** *(nov 2023)*\
 Atividade "Mostra teu jogo!", com o projeto: Only Child\
 Palestra "De dev solo para contratado"
 
-**Rec'n'Play**\
-*(nov 2022)*\
+**Rec'n'Play** *(nov 2022)*\
 Atividade "Mostra teu jogo!", com o projeto: Clixit
 
-**Semana de Comunicação UNICAP**\
-*(nov 2021)*\
+**Semana de Comunicação UNICAP** *(nov 2021)*\
 Oficina “Crie Seu Próprio Jogo”
 
-**IFMS - Side Quest Game Jam 2021**\
-*(set 2021)*\
+**IFMS - Side Quest Game Jam 2021** *(set 2021)*\
 Palestra “Experiências em Game Jams” 🔗 [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
 
-**UNICAP e Rec'n'Play**\
-*(set 2019)*\
+**UNICAP e Rec'n'Play** *(set 2019)*\
 Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watch?v=T32a0eIFNbw)
 
-**UNICAP**\
-*(abr 2019)*\
+**UNICAP** *(abr 2019)*\
 Workshop "Level Design no Unity”
 
 
