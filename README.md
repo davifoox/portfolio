@@ -36,6 +36,30 @@
   Universidade Federal de Pernambuco (UFPE) 
   (ago 2013 - jul 2017)
 
+## PRÊMIOS E RECONHECIMENTOS
+- UNICAP - Certificado de Aluno Destaque
+  
+- UNICAP - Premiação do TCC (One Bullet Man) nas categorias:
+  - Melhor Jogo;
+  - Melhor Arte;
+  - Melhor Projeto Inovação;
+
+- IFMS - Júri convidado na Side Quest Game Jam 2021 
+
+- SBGames 2021 - com o jogo Sleepy Blocks
+  - Menção Honrosa nas categorias:
+      - Melhor Jogo (Júri Técnico)
+      - Melhor Game Design
+  - Indicado nas categorias:
+    - Melhor Jogo (Júri Técnico);
+    - Melhor Game Design;
+    - Melhor Som;
+    - Melhor Arte;
+
+- GMTK 2021 - Vencedor com o jogo Sleepy Blocks
+
+- SBGames 2019 - Seleção Oficial com o jogo Mixtape Fever
+
 # OFICINAS E PALESTRAS
 - Oficina “Crie Seu Próprio Jogo” | Semana de Comunicação UNICAP - (nov 2021)
 - Palestra “Experiências em Game Jams” | Side Quest Game Jam 2021 - (set 2021)
