@@ -11,7 +11,7 @@ Recife, Brasil\
 - Documentação, resolução de problemas, balanceamento, trabalho em equipe
 - Prototipagem, iterações rápidas de ideias
 
-**Game Designer | OPA Games (antes GDS Games)**\
+**Game Designer | OPA Games**\
 *(nov 2022 - jun 2023)*
 - Líder do time de game designers
 - Design de sistemas, balanceamento e testagem de projeto em andamento
