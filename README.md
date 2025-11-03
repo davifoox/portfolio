@@ -87,18 +87,18 @@ Premiação do TCC (One Bullet Man) nas categorias:
 Projeto: One Bullet Man
   
 **Participação em Game Jams**\
-- GMTK Game Jam (2025)
-- GMTK Game Jam (2024)
-- GMTK Game Jam (2021)
-- LOWREZJAM (2020)
-- GMTK Game Jam (2020)
-- Global Game Jam (2020)
-- Noord Game Jam (2019)
-- Mix and Game Jam (2019)
-- Game Jam + (2019) [Pyramide Scape](gamejolt.com/games/pyramidescape/430733)
-- GMTK Game Jam (2018)
-- Godot Community Jam (2018)
-- JimJam (2018)
+- GMTK Game Jam *(2025)*
+- GMTK Game Jam *(2024)*
+- GMTK Game Jam *(2021)*
+- LOWREZJAM *(2020)*
+- GMTK Game Jam *(2020)*
+- Global Game Jam *(2020)*
+- Noord Game Jam *(2019)*
+- Mix and Game Jam *(2019)*
+- Game Jam + *(2019)* 🔗 [Pyramide Scape](http://www.gamejolt.com/games/pyramidescape/430733)
+- GMTK Game Jam *(2018)*
+- Godot Community Jam *(2018)*
+- JimJam *(2018)*
 
 
 ## OFICINAS, PALESTRAS E MOSTRAS
