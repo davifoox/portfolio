@@ -43,6 +43,7 @@
 - Universidade Federal de Pernambuco (UFPE) 
   (ago 2013 - jul 2017)
 
+
 # PRÊMIOS E RECONHECIMENTOS
 - UNICAP (2022)
   - Certificado de Aluno Destaque
@@ -51,7 +52,8 @@
     - Melhor Arte
     - Melhor Projeto Inovação
 
-- IFMS - Júri convidado na Side Quest Game Jam (2021) 
+- IFMS (2021)
+  - Júri convidado na Side Quest Game Jam
 
 - SBGames (2021)
   - Finalista com o jogo Sleepy Blocks
@@ -64,9 +66,8 @@
     - Melhor Jogo (Júri Técnico)
     - Melhor Game Design
 
-
-- GMTK (2021)
-  - Vencedor com o jogo Sleepy Blocks
+- **GMTK (2021)**
+  - **Vencedor com o jogo Sleepy Blocks**
 
 - SBGames (2019)
   - Seleção Oficial com o jogo Mixtape Fever
