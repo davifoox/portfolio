@@ -39,6 +39,11 @@
 # OFICINAS E PALESTRAS
 - Oficina “Crie Seu Próprio Jogo” | Semana de Comunicação UNICAP - (nov 2021)
 - Palestra “Experiências em Game Jams” | Side Quest Game Jam 2021 - (set 2021)
+  youtube.com/watch?v=Nq4ef_yeOz0
+  A palestra inicia em: 1:50:40
+  
 - Oficina "Desenvolvimento de Jogos com a Godot” | UNICAP e Rec'n'Play - (set 2019)
+  youtube.com/watch?v=T32a0eIFNbw
+  
 - Workshop "Level Design no Unity” | UNICAP - (abr 2019)
 
