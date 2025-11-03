@@ -45,9 +45,9 @@
   - Melhor Arte;
   - Melhor Projeto Inovação;
 
-- IFMS - Júri convidado na Side Quest Game Jam 2021 
+- IFMS - Júri convidado na Side Quest Game Jam (2021) 
 
-- SBGames 2021 - com o jogo Sleepy Blocks
+- SBGames (2021) - com o jogo Sleepy Blocks
   - Menção Honrosa nas categorias:
       - Melhor Jogo (Júri Técnico)
       - Melhor Game Design
@@ -57,9 +57,11 @@
     - Melhor Som;
     - Melhor Arte;
 
-- GMTK 2021 - Vencedor com o jogo Sleepy Blocks
+- GMTK (2021)
+  - Vencedor com o jogo Sleepy Blocks
 
-- SBGames 2019 - Seleção Oficial com o jogo Mixtape Fever
+- SBGames (2019)
+  - Seleção Oficial com o jogo Mixtape Fever
 
 
 # PROJETOS
