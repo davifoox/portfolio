@@ -57,25 +57,25 @@ Premiação do TCC (One Bullet Man) nas categorias:
 - 🥇 Melhor Arte
 - 🥇 Projeto Inovação
 
-**IFMS** *(2021)*
-- Júri convidado na Side Quest Game Jam
+**IFMS** *(2021)*\
+Júri convidado na Side Quest Game Jam
 
 **SBGames** *(2021)*
-- Finalista com o jogo Sleepy Blocks
-- Indicado nas categorias:
-  - Melhor Jogo (Júri Técnico)
-  - Melhor Game Design
-  - Melhor Arte
-  - Melhor Som
-- Menção Honrosa nas categorias:
-  - 🏅 Melhor Jogo (Júri Técnico)
-  - 🏅 Melhor Game Design
+Finalista com o jogo Sleepy Blocks\
+Indicado nas categorias:
+- Melhor Jogo (Júri Técnico)
+- Melhor Game Design
+- Melhor Arte
+- Melhor Som
+Menção Honrosa nas categorias:
+- 🏅 Melhor Jogo (Júri Técnico)
+- 🏅 Melhor Game Design
 
-**GMTK** *(2021)*
-- 🥇 Vencedor com o jogo Sleepy Blocks
+**GMTK** *(2021)*\
+🥇 Vencedor com o jogo Sleepy Blocks
 
-**SBGames** *(2019)*
-- Seleção Oficial com o jogo Mixtape Fever
+**SBGames** *(2019)*\
+Seleção Oficial com o jogo Mixtape Fever
 
 
 ## PROJETOS
