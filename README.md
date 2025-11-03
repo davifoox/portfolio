@@ -96,6 +96,9 @@
 
 # OFICINAS, PALESTRAS E MOSTRAS
 
+- Campus Party (set 2024) no Palco Jogo Coletivo + JAM das Minas
+  - Palestra "De dev solo para Contratado"
+
 - Rec'n'Play (nov 2023)
   - Atividade "Mostra teu jogo!", com o projeto: Only Child
   - Palestra "De dev solo para contratado"
