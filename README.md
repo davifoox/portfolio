@@ -77,10 +77,9 @@
 - [Inserir link do itch.io]
 - [Inserir link da Google Play Store]
 
-- Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE, com o jogo:
-  - One Bullet Man
-  (jan - abr 2022)
-
+- Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE (jan - abr 2022)
+  - Projeto: One Bullet Man
+  
 - Participação em Game Jams
   - GMTK Game Jam (2025)
   - GMTK Game Jam (2024)
