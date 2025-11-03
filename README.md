@@ -82,57 +82,56 @@ Premiação do TCC (One Bullet Man) nas categorias:
 ### Portfólio
 [itch.io](https://davifox.itch.io/)
 
-### Edital de Criação, Fruição e Difusão
-Lei Aldir Blanc PE *(jan - abr 2022)*\
+### Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE
+*(jan - abr 2022)*\
 Projeto: One Bullet Man
   
-- Participação em Game Jams
-  - GMTK Game Jam (2025)
-  - GMTK Game Jam (2024)
-  - GMTK Game Jam (2021)
-  - LOWREZJAM (2020)
-  - GMTK Game Jam (2020)
-  - Global Game Jam (2020)
-  - Noord Game Jam (2019)
-  - Mix and Game Jam (2019)
-  - Game Jam + (2019)
-    - gamejolt.com/games/pyramidescape/430733
-  - GMTK Game Jam (2018)
-  - Godot Community Jam (2018)
-  - JimJam (2018)
-
-- Jogos publicados na Google Play
-  - Pocket Snake
-  - Pocket Cat
-  - Sleepy Blocks
-  - Clixit
+### Participação em Game Jams
+- GMTK Game Jam (2025)
+- GMTK Game Jam (2024)
+- GMTK Game Jam (2021)
+- LOWREZJAM (2020)
+- GMTK Game Jam (2020)
+- Global Game Jam (2020)
+- Noord Game Jam (2019)
+- Mix and Game Jam (2019)
+- Game Jam + (2019)
+  - gamejolt.com/games/pyramidescape/430733
+- GMTK Game Jam (2018)
+- Godot Community Jam (2018)
+- JimJam (2018)
 
 
 ## OFICINAS, PALESTRAS E MOSTRAS
 
-- Campus Party no Palco Jogo Coletivo + JAM das Minas (set 2024)
-  - Palestra "De dev solo para Contratado"
+### Campus Party no Palco Jogo Coletivo + JAM das Minas
+*(set 2024)*\
+Palestra "De dev solo para Contratado"\
 
-- Rec'n'Play (nov 2023)
-  - Atividade "Mostra teu jogo!", com o projeto: Only Child
-  - Palestra "De dev solo para contratado"
+### Rec'n'Play
+*(nov 2023)*\
+Atividade "Mostra teu jogo!", com o projeto: Only Child\
+Palestra "De dev solo para contratado"\
 
-- Rec'n'Play (nov 2022)
-  - Atividade "Mostra teu jogo!", com o projeto: Clixit
+### Rec'n'Play
+*(nov 2022)*\
+Atividade "Mostra teu jogo!", com o projeto: Clixit\
 
-- Semana de Comunicação UNICAP (nov 2021)
-  - Oficina “Crie Seu Próprio Jogo”
+### Semana de Comunicação UNICAP
+*(nov 2021)*\
+Oficina “Crie Seu Próprio Jogo”\
 
-- IFMS - Side Quest Game Jam 2021 (set 2021)
-  - Palestra “Experiências em Game Jams”
-    youtube.com/watch?v=Nq4ef_yeOz0  (inicia em: 1:50:40)
+### IFMS - Side Quest Game Jam 2021
+*(set 2021)*\
+Palestra “Experiências em Game Jams” [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
 
-- UNICAP e Rec'n'Play (set 2019)
-  - Oficina "Desenvolvimento de Jogos com a Godot”
-    youtube.com/watch?v=T32a0eIFNbw
+### UNICAP e Rec'n'Play
+*(set 2019)*\
+Oficina "Desenvolvimento de Jogos com a Godot” [YouTube](youtube.com/watch?v=T32a0eIFNbw)
 
-- UNICAP (abr 2019) 
-  - Workshop "Level Design no Unity”
+### UNICAP 
+*(abr 2019)*\
+Workshop "Level Design no Unity”\
 
 
 ## HABILIDADES
