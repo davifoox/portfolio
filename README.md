@@ -60,6 +60,35 @@
 
 - SBGames 2019 - Seleção Oficial com o jogo Mixtape Fever
 
+## PROJETOS
+- [Inserir link do itch.io]
+- [Inserir link da Google Play Store]
+
+- Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE, com o jogo:
+  - One Bullet Man
+  (jan - abr 2022)
+
+- Participação em Game Jams
+  - GMTK Game Jam (2025)
+  - GMTK Game Jam (2024)
+  - GMTK Game Jam (2021)
+  - LOWREZJAM (2020)
+  - GMTK Game Jam (2020)
+  - Global Game Jam (2020)
+  - Noord Game Jam (2019)
+  - Mix and Game Jam (2019)
+  - Game Jam + (2019)
+  - GMTK Game Jam (2018)
+  - Godot Community Jam (2018)
+  - JimJam (2018)
+
+- Jogos publicados na Google Play
+  - Pocket Snake
+  - Pocket Cat
+  - Sleepy Blocks
+  - Clixit
+
+
 # OFICINAS E PALESTRAS
 - Oficina “Crie Seu Próprio Jogo” | Semana de Comunicação UNICAP - (nov 2021)
 - Palestra “Experiências em Game Jams” | Side Quest Game Jam 2021 - (set 2021)
