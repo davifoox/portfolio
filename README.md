@@ -50,17 +50,17 @@ Universidade Federal de Pernambuco (UFPE)\
 
 
 ## PRÊMIOS E RECONHECIMENTOS
-**UNICAP (2022)**\
+**UNICAP** *(2022)*\
 🏅 Certificado de Aluno Destaque\
 Premiação do TCC (One Bullet Man) nas categorias:
 - 🥇 Melhor Jogo
 - 🥇 Melhor Arte
 - 🥇 Projeto Inovação
 
-**IFMS (2021)**
+**IFMS** *(2021)*
 - Júri convidado na Side Quest Game Jam
 
-**SBGames (2021)**
+**SBGames** *(2021)*
 - Finalista com o jogo Sleepy Blocks
 - Indicado nas categorias:
   - Melhor Jogo (Júri Técnico)
@@ -71,10 +71,10 @@ Premiação do TCC (One Bullet Man) nas categorias:
   - 🏅 Melhor Jogo (Júri Técnico)
   - 🏅 Melhor Game Design
 
-**GMTK (2021)**
+**GMTK** *(2021)*
 - 🥇 Vencedor com o jogo Sleepy Blocks
 
-**SBGames (2019)**
+**SBGames** *(2019)*
 - Seleção Oficial com o jogo Mixtape Fever
 
 
