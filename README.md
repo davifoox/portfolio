@@ -45,7 +45,7 @@ Universidade Católica de Pernambuco (UNICAP)\
 *(jan 2019 - jul 2022)*
 
 **Bacharelado em Cinema e Audiovisual**\
-Universidade Federal de Pernambuco (UFPE) 
+Universidade Federal de Pernambuco (UFPE)\
 *(ago 2013 - jul 2017)*
 
 
