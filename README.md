@@ -106,20 +106,20 @@ Projeto: One Bullet Man
 
 ### Campus Party no Palco Jogo Coletivo + JAM das Minas
 *(set 2024)*\
-Palestra "De dev solo para Contratado"\
+Palestra "De dev solo para Contratado"
 
 ### Rec'n'Play
 *(nov 2023)*\
 Atividade "Mostra teu jogo!", com o projeto: Only Child\
-Palestra "De dev solo para contratado"\
+Palestra "De dev solo para contratado"
 
 ### Rec'n'Play
 *(nov 2022)*\
-Atividade "Mostra teu jogo!", com o projeto: Clixit\
+Atividade "Mostra teu jogo!", com o projeto: Clixit
 
 ### Semana de Comunicação UNICAP
 *(nov 2021)*\
-Oficina “Crie Seu Próprio Jogo”\
+Oficina “Crie Seu Próprio Jogo”
 
 ### IFMS - Side Quest Game Jam 2021
 *(set 2021)*\
@@ -131,7 +131,7 @@ Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watc
 
 ### UNICAP 
 *(abr 2019)*\
-Workshop "Level Design no Unity”\
+Workshop "Level Design no Unity”
 
 
 ## HABILIDADES
