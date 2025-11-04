@@ -3,6 +3,8 @@
 📍 Recife, Brasil\
 🔗 [LinkedIn](https://www.linkedin.com/in/davi-fox-732a41173/)
 
+---
+
 <details open>
 <summary><h2>PORTFÓLIO</h2></summary><br>
 
